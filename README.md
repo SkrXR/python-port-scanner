@@ -1,6 +1,6 @@
 # python-port-scanner
 
-## Python Port Scanner**
+## Python Port Scanner
 
 ### Introduction
 
