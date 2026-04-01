@@ -1,8 +1,8 @@
 # python-port-scanner
 
-# **# Python Port Scanner**
+## Python Port Scanner**
 
-### **## Introduction**
+### Introduction**
 
 This project is my ****first self-built cybersecurity tool****.
 
@@ -12,7 +12,7 @@ I created this tool to ****apply my theoretical knowledge in a practical way****
 
 This project is part of my learning journey in cybersecurity and penetration testing.
 
-### **## Project Goal**
+### Project Goal**
 
 The objective of this project was to build a ****basic TCP port scanner in Python**** that can:
 
@@ -28,7 +28,7 @@ The main purpose was to ****translate learned concepts into a working tool**** a
 
 - --
 
-### **## Why I Built This Project**
+### Why I Built This Project**
 
 This is the ****first custom tool I have developed on my own**** as part of my cybersecurity learning path.
 
@@ -42,7 +42,7 @@ I built this project to:
 
 This project helped me move from learning theory to building a real functional tool.
 
-### **## Features**
+### Features**
 
 - target IP / hostname input
 - hostname resolution
@@ -53,7 +53,7 @@ This project helped me move from learning theory to building a real functional t
 - error handling
 - clear terminal output
 
-### **## Technologies Used**
+### Technologies Used**
 
 - Python
 - Visual Studio Code
@@ -61,15 +61,15 @@ This project helped me move from learning theory to building a real functional t
 - Python `socket` module
 - --
 
-### **## Project Structure**
+### Project Structure**
 
 python-port-scanner/
 
-├── main.py
+├──main.py
 
 └── README.md
 
-### **## Development Process**
+### Development Process**
 
 ### Step 1: Project Setup
 
@@ -207,9 +207,9 @@ Enter start port: 1
 
 Enter end port: 100
 
-## **## Learning Outcome**
+## Learning Outcome**
 
-#### **# This project significantly improved my understanding of:**
+#### This project significantly improved my understanding of:**
 
 - Python functions
 - exception handling
