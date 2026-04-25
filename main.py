@@ -1,6 +1,17 @@
 # Import the socket module (used for network connections)
 import socket
 
+print(r"""
+  ____            _   ____                                  
+ |  _ \ ___  _ __| |_/ ___|  ___ __ _ _ __  _ __   ___ _ __
+ | |_) / _ \| '__| __\___ \ / __/ _` | '_ \| '_ \ / _ \ '__|
+ |  __/ (_) | |  | |_ ___) | (_| (_| | | | | | | |  __/ |
+ |_|   \___/|_|   \__|____/ \___\__,_|_| |_|_| |_|\___|_|
+""")
+
+print("Version: 1.0")
+print("Author: SkrXR")
+print("-" * 50)
 
 # This function checks if a specific port is open on the target IP address
 def scan_port(target_ip, port):
